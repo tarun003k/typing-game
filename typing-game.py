@@ -3,7 +3,7 @@ import time
 from colorama import Fore, Style
 
 prompts = [
-    "Hi, this code is written by Purna Shrestha.",
+    "Hi, this code is written by tharun kumar.",
     "The quick brown fox jumps over the lazy dog",
     "Python is a versatile and powerful programming language",
     "Coding is a skill that can change your life",
